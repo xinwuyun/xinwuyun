@@ -1,6 +1,6 @@
 # Hi,I'm xinwuyun! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=xinwuyun&fontSize=60&animation=fadeIn&fontAlignY=38&desc=21yo software developer&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=xinwuyun&fontSize=60&animation=fadeIn&fontAlignY=38&desc=21yo%20software%20developer&descAlignY=60&descAlign=62)
 
 西安电子科技大学软件工程专业在读本科生，对云计算尤其是serverless技术感兴趣。
 
