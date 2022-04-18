@@ -30,7 +30,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=xinwuyun&theme=onedark&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/okamimks">
     <img
       align="center"
@@ -38,6 +38,6 @@
     />
   </a>
 </a>
-</p>
+</p> -->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=xinwuyun&theme=react-dark" alt="drawing" width="800"/>
