@@ -16,19 +16,19 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=xinwuyun&show_icons=true&theme=vue"
+      src="https://github-readme-stats.vercel.app/api?username=xinwuyun&show_icons=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/xinwuyun">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwuyun&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyodark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwuyun&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=xinwuyun&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=xinwuyun&theme=onedark&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 <p align="center">
   <a href="https://github.com/okamimks">
