@@ -6,7 +6,8 @@
 
 + 🔭 I’m currently studying in Xidian University
 + 🌱 I’m currently interested in cloud computing, especially serverless.
-+ 💬 My resume: 
++ 📄 My research page: [about.xinwuyun.cloud](https://about.xinwuyun.cloud)
++ 💬 My resume: [My resume](https://about.xinwuyun.cloud/assets/resume.pdf)
 + 📫 How to reach me: zrwangxdu@outlook.com
 
 ## Github Infos
