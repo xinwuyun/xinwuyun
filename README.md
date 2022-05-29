@@ -4,7 +4,7 @@
 
 西安电子科技大学软件工程专业在读本科生，对云计算尤其是serverless技术感兴趣。
 
-我做过的科研和项目以及一些有意思的东西的部分汇总：[awesome-xinwuyun](https://github.com/xinwuyun/awesome-xinwuyun)
+My works：[awesome-xinwuyun](https://github.com/xinwuyun/awesome-xinwuyun)
 
 + 🔭 I’m currently studying in Xidian University
 + 🌱 I’m currently interested in cloud computing, especially serverless.
